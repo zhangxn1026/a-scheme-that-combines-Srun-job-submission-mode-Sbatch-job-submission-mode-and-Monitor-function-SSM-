@@ -1,0 +1,11 @@
+time = 12.9
+imput_path = /groups/g9800070/home/share/PMPS26
+output_path = /groups/g9800070/home/zhangxingnan/PMPS26
+min_DM = 00.00
+max_DM = 3000.00
+step_size = 0.10
+zmax = 10
+numharm = 32
+channels = 128
+my_path = /groups/g9800070/home/zhangxingnan/PMPS26
+name=PMPS26
